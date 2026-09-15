@@ -82,7 +82,7 @@
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-lg); border: 1px solid rgba(255,255,255,0.15);">
-          <img src="/assets/images/alpaca_fleece_fiber.jpg" alt="Paddedfootlet flagship showcase" style="width: 100%; height: auto;">
+          <img src="/assets/images/sock_arch_support_cushion.jpg" alt="Paddedfootlet flagship showcase" style="width: 100%; height: auto;">
         </div>
       </div>
     </div>
@@ -106,7 +106,7 @@
           </div>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/andean_highland_pasture.jpg" alt="Master artisan examining tolerances at the Mercer Street atelier">
+          <img src="/assets/images/sock_bamboo_dress.jpg" alt="Master artisan examining tolerances at the Mercer Street atelier">
         </div>
       </div>
     </div>
@@ -160,7 +160,7 @@
       <div class="grid-3">
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_200_needle_knit.jpg" alt="Blog 200 Needle Knit">
+            <img src="/assets/images/sock_cashmere_lounge.jpg" alt="Sock Cashmere Lounge">
             <span class="card-tag">Atelier Edition</span>
           </div>
           <div class="card-body">
@@ -176,7 +176,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_blister_prevention.jpg" alt="Blog Blister Prevention">
+            <img src="/assets/images/sock_colorful_pattern_gift.jpg" alt="Sock Colorful Pattern Gift">
             <span class="card-tag">Heritage Reserve</span>
           </div>
           <div class="card-body">
@@ -192,7 +192,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_hollow_fiber.jpg" alt="Blog Hollow Fiber">
+            <img src="/assets/images/sock_compression_ergonomic.jpg" alt="Sock Compression Ergonomic">
             <span class="card-tag">Classic Reserve</span>
           </div>
           <div class="card-body">
@@ -208,7 +208,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/blog_sustainable_shearing.jpg" alt="Blog Sustainable Shearing">
+            <img src="/assets/images/sock_drawer_organization.jpg" alt="Sock Drawer Organization">
             <span class="card-tag">Atelier Exclusive</span>
           </div>
           <div class="card-body">
@@ -224,7 +224,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/circular_knitting_loom.jpg" alt="Circular Knitting Loom">
+            <img src="/assets/images/sock_hero_cozy_wool.jpg" alt="Sock Hero Cozy Wool">
             <span class="card-tag">Patron Edition</span>
           </div>
           <div class="card-body">
@@ -240,7 +240,7 @@
         </div>
         <div class="card product-item" data-category="bespoke">
           <div class="card-image-wrap">
-            <img src="/assets/images/knitted_sock_texture.jpg" alt="Knitted Sock Texture">
+            <img src="/assets/images/sock_kids_family_fun.jpg" alt="Sock Kids Family Fun">
             <span class="card-tag">SoHo Signature</span>
           </div>
           <div class="card-body">
@@ -278,7 +278,7 @@
           <a href="/blog/material-provenance-and-fiber-crystallography.html" class="btn btn-outline btn-sm">Read Material Science Treatise</a>
         </div>
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/mercer_showroom_studio.jpg" alt="Material inspection and quality verification at the workshop">
+          <img src="/assets/images/sock_merino_hiking.jpg" alt="Material inspection and quality verification at the workshop">
         </div>
       </div>
     </div>
@@ -289,7 +289,7 @@
     <div class="container">
       <div class="grid-2">
         <div style="border-radius: var(--radius-md); overflow: hidden; box-shadow: var(--shadow-md);">
-          <img src="/assets/images/natural_dye_skeins.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
+          <img src="/assets/images/sock_organic_cotton_everyday.jpg" alt="Artisan drafting patterns at 181 Mercer Street">
         </div>
         <div>
           <span class="hero-badge">Flagship Fitting Suite</span>
@@ -422,7 +422,7 @@
       <div class="grid-3">
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/seamless_toe_detail.jpg" alt="Material Provenance and Fiber Crystallography">
+            <img src="/assets/images/sock_patron_lifestyle_walk.jpg" alt="Material Provenance and Fiber Crystallography">
             <span class="card-tag">Textile Science</span>
           </div>
           <div class="card-body">
@@ -434,7 +434,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/comfort_lounge_cashmere_knit.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
+            <img src="/assets/images/sock_running_athletic_blister.jpg" alt="Micro-Engineering Tolerances in Haute Finishing">
             <span class="card-tag">Precision Engineering</span>
           </div>
           <div class="card-body">
@@ -446,7 +446,7 @@
         </div>
         <div class="card">
           <div class="card-image-wrap">
-            <img src="/assets/images/knit_merino_textured_rib_cuff.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
+            <img src="/assets/images/hero_sartorial_socks.jpg" alt="Biomechanical Ergonomics in Bespoke Wear">
             <span class="card-tag">Anatomical Physics</span>
           </div>
           <div class="card-body">
